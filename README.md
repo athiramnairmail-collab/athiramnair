@@ -1,6 +1,76 @@
 <h1>Hi, I'm Athira M Nair! <br/><a href="https://www.linkedin.com/in/athiramnair/">Content Writer</a> 
 </h1>
 
+Academic Research Writer | 📚 MBA (HR) Professional | 📝 Content Strategist
+
+Welcome to my GitHub! I combine rigorous academic research skills with human-centered HR insights to create clear, impactful, and well-structured content. My work focuses on transforming complex research ideas into engaging, accessible narratives.
+
+🚀 What I Do
+
+✍️ Academic content writing (research papers, literature reviews, analysis)
+
+🧠 Research design & methodology (qualitative + quantitative)
+
+💼 Human Resource Management content (leadership, culture, engagement)
+
+📘 Editing, rewriting, humanizing AI-generated content
+
+🎯 Structuring manuscripts, thesis chapters, and research proposals
+
+🧩 Content strategy for academic and professional documents
+
+🎓 My Background
+
+MBA in Human Resource Management
+
+Experienced in behavioral studies, organisational culture, leadership, and employee performance
+
+Strong exposure to social sciences, management studies, impact evaluation, and governance research
+
+Supported numerous research projects across education, tourism, technology adoption, SHRM, and public administration
+
+🛠️ Tools & Skills
+Research & Writing Skills
+
+Literature review writing
+
+Thematic analysis
+
+APA, MLA, Harvard referencing
+
+Report writing & academic editing
+
+Qualitative & quantitative interpretation
+
+Technical Tools
+
+Markdown
+
+GitHub documentation
+
+SPSS / Excel (for data interpretation)
+
+Notion & research management tools
+
+🌱 Currently Working On
+
+Academic content development across management, HR, social sciences, and governance
+
+Humanizing formal research text for better readability
+
+Building structured academic chapters, research gaps, objectives, and questions
+
+Supporting ongoing research in leadership, strategy, culture, public service, and education
+
+📬 Let’s Connect
+
+I’m always open to collaborations in content writing, research assistance, or knowledge-building projects.
+
+📧 Email: (Add your email)
+
+🌐 LinkedIn: (optional)
+
+
 <h2> Network Security Projects:</h2>
 <h2> FortiGate lab Projects:</h2>
 
