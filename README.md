@@ -1,4 +1,5 @@
-h1>Hi, I'm Athira M Nair! <br/><a href="https://www.linkedin.com/in/athiramnair/">Content Writer</a> </h1>
+<h1>Hi, I'm Athira M Nair! <br/><a href="https://www.linkedin.com/in/athiramnair/">Content Writer</a> 
+</h1>
 
 <h2> Network Security Projects:</h2>
 <h2> FortiGate lab Projects:</h2>
